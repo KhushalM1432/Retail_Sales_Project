@@ -1,4 +1,4 @@
-# Retail_Sales_Project
+# Retail_Sales_Analysis_Project
 Data Science
 
 # Retail Sales Analysis  
